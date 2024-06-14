@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.estilo{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(238, 226, 226);
+    width: 500px;
+    margin-left: 30%;
+}
